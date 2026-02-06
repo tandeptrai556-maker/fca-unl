@@ -50,8 +50,6 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 
 - **GitHub Issues:** [Báo lỗi tại đây](https://github.com/tandeptrai556-maker/fca-uni/issues)
 - **Facebook:** [Nguyễn Minh Trí](https://www.facebook.com/ng.minh.tri.768741)
-- **Website:** [SPN.IO.VN](https://spn.io.vn)
-
 ---
 
 ## 📄 Giấy Phép
