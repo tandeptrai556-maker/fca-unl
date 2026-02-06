@@ -1,5 +1,3 @@
----
-
 ## 📋 Yêu Cầu Hệ Thống
 
 - **Node.js:** v16.x hoặc cao hơn
@@ -48,10 +46,11 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 
 ---
 
-## 📞 Liên Hệ & Hỗ Trợ
+## 📞 Liên Hệ và Hỗ Trợ
 
 - **GitHub Issues:** [Báo lỗi tại đây](https://github.com/tandeptrai556-maker/fca-uni/issues)
-- **FACEBOOK** [https://www.facebook.com/ng.minh.tri.768741/]
+- **Facebook:** [Nguyễn Minh Trí](https://www.facebook.com/ng.minh.tri.768741)
+- **Website:** [SPN.IO.VN](https://spn.io.vn)
 
 ---
 
@@ -61,19 +60,24 @@ Dự án này được phân phối theo giấy phép MIT. Xem file `LICENSE` đ
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 Tác Giả
 
-**tandeptrai556-maker**
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Nguyễn+Minh+Trí;tandeptrai556-maker" alt="Typing SVG" />
+</h1>
 
 [![GitHub](https://img.shields.io/badge/GitHub-tandeptrai556--maker-181717?style=for-the-badge&logo=github)](https://github.com/tandeptrai556-maker)
-[![Website](https://img.shields.io/badge/Website-SPN.IO.VN-blue?style=for-the-badge&logo=google-chrome)](https://spn.io.vn)
-
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyễn%20Minh%20Trí-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/ng.minh.tri.768741)
 ---
 
-<div align="center">
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=FCA%20AutoLogin%20-%20Horizon&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 ### ⭐ Nếu dự án hữu ích, hãy cho một sao nhé!
 
-Made with ❤️ by [tandeptrai556-maker](https://github.com/tandeptrai556-maker)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F70000,FF7F00,FFD700,00FF00,0000FF,8B00FF,FF00FF&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Made+with+❤️+by+tandeptrai556-maker;Support+SPN.IO.VN+🚀" alt="Made with love" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 
 </div>
